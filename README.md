@@ -16,7 +16,8 @@ This project demonstrates how to deploy a Reddit clone application on **Kubernet
 - **Kubectl**: For managing the Kubernetes resources.
 
 ![Reddit Deployment Overview](./images/Capture%20d’écran%20du%202024-10-09%2022-17-18.png)
-![Reddit Deployment Overview](./images/Capture d’écran du 2024-10-09 22-27-52.png)
+![Reddit Deployment Overview](./images/Capture%20d%E2%80%99%C3%A9cran%20du%202024-10-09%2022-27-52.png)
+
 
 
 ---
