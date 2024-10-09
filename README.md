@@ -18,6 +18,9 @@ This project demonstrates how to deploy a Reddit clone application on **Kubernet
 ![Reddit Deployment Overview](./images/reddit-deployment-overview.png)
 
 ---
+### Source Code
+
+The source code for the Reddit clone application can be found [here on GitHub](https://github.com/SashenJayathilaka/Reddit-Clone?tab=readme-ov-file).
 
 ## Prerequisites
 
@@ -39,13 +42,4 @@ Install Docker to build the container image. You can follow the guide here:
 
 ---
 
-## Project Structure
 
-```plaintext
-Reddit-deployment/
-├── K8S/
-│   ├── ingress.yaml          # Ingress resource for exposing Reddit app
-│   ├── reddit-service.yaml   # Service configuration to expose the app inside Kubernetes
-│   ├── reddit-deployment.yaml # Deployment configuration for Reddit app
-├── Dockerfile                # Dockerfile to build the Reddit container image
-└── images/                   # Folder for images/screenshots for README
