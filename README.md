@@ -15,7 +15,9 @@ This project demonstrates how to deploy a Reddit clone application on **Kubernet
 - **Minikube**: For local Kubernetes setup.
 - **Kubectl**: For managing the Kubernetes resources.
 
-![Reddit Deployment Overview](./images/Capture d’écran du 2024-10-09 22-17-18.png)
+![Reddit Deployment Overview](./images/Capture%20d’écran%20du%202024-10-09%2022-17-18.png)
+![Reddit Deployment Overview](./images/Capture d’écran du 2024-10-09 22-27-52.png)
+
 
 ---
 ### Source Code
@@ -30,7 +32,6 @@ Before proceeding with the project, make sure you have the following installed:
 Install Minikube by following the instructions from the official documentation:  
 [Minikube Install Guide](https://minikube.sigs.k8s.io/docs/)
 
-![Minikube](./images/minikube-installation.png)
 
 ### 2. **kubectl**: Kubernetes CLI
 You’ll need `kubectl` to interact with your Kubernetes cluster. Install `kubectl` using this guide:  
